@@ -42,12 +42,7 @@ Threat Risk Score + SHAP-Style Explanation
 
 ## 🚀 Live Demo & Hosting
 
-You can host this project completely free using **GitHub Pages**:
-
-1. Upload repository files to GitHub.
-2. Go to **Settings → Pages**.
-3. Under **Branch**, select `main` and root folder `/`.
-4. Click **Save**. Your site will be live at `https://<your-username>.github.io/<repository-name>/`.
+Demo Link : https://saimuramalla07.github.io/phishing-url-detector/
 
 ---
 
